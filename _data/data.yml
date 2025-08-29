@@ -80,7 +80,7 @@ training:
     - role: 벤처스타트업아카데미 웹 개발자 양성과정
       time: 2023.03 - 2024.02 (720시간)
       company: 동국대학교 SW교육원, 중소벤처기업부
-      link: "https://github.com/bin-pro/esthete"
+      link: "github.com/bin-pro/esthete"
       details: |
         - React, NodeJS, Spring, PostgreSQL 기반의 풀스택 개발 역량을 학습하고 3개의 웹/앱 프로젝트를 기획, 개발, 배포했습니다.
         - MSA 설계를 위해 Spring Cloud, Kafka, Kubernetes(GKE)를 학습하고 실제 프로젝트에 적용하며 '산학연계프로젝트 우수상', '최종발표회 우수상'을 수상했습니다.
@@ -88,7 +88,7 @@ training:
     - role: 클라우드 기반 금융 ICT 풀스택 개발자 양성과정
       time: 2023.07 - 2023.10 (512시간)
       company: 신한투자증권 프로디지털아카데미
-      link: "https://github.com/bin-pro/ForAlpha"
+      link: "github.com/bin-pro/ForAlpha"
       details: |
         - 금융 실무 중심의 클라우드 아키텍처, 보안, 멀티 클라우드 솔루션, Linux, Spring, React 등 현업 기술을 집중적으로 학습했습니다.
         - '주식 초보자를 위한 웹 서비스'를 주제로 최종 프로젝트를 수행하며 AWS EKS 기반 MSA 설계 및 CQRS 패턴 적용을 통해 시스템 성능을 개선했습니다.
@@ -96,14 +96,13 @@ training:
     - role: 하나증권 대학생 투자 아카데미 '하나드림' 2기
       time: 2024.03 - 2024.08 (45시간)
       company: 하나증권
-      link: "#" # 링크가 없는 경우 #으로 남겨두거나 이 줄을 삭제하세요.
       details: |
         - 국내외 주식 및 선물 모의투자를 진행하고, 시장 리스크 분석 및 자산 분배 전략에 대한 리포트를 작성하며 금융 도메인 지식을 심화했습니다.
 
     - role: AWS 클라우드 직무캠프
       time: 2023.06 (35시간)
       company: 농심DS
-      link: "https://drive.google.com/file/d/1GPxueTBeh12SsSRtabK6RJ3kkt0rhwMh/view?usp=drive_link" # 링크가 없는 경우 #으로 남겨두거나 이 줄을 삭제하세요.
+      link: "drive.google.com/file/d/1GPxueTBeh12SsSRtabK6RJ3kkt0rhwMh/view?usp=drive_link" # 링크가 없는 경우 #으로 남겨두거나 이 줄을 삭제하세요.
       details: |
         - AWS 3-Tier 웹 아키텍처 및 네트워크 Best Practice에 대해 학습하고, Bastion 서버, NAT Gateway, Transit Gateway 등을 활용한 Private Network 구축 실습을 진행했습니다.
 
@@ -130,21 +129,21 @@ certifications:
     - name: 벤처스타트업아카데미 최종발표회 우수상
       end: 2023.12
       organization: 동국대학교 SW교육원
-      credentialurl: "https://github.com/bin-pro/esthete" # 여기에 관련 링크를 추가하세요.
+      credentialurl: "github.com/bin-pro/esthete" # 여기에 관련 링크를 추가하세요.
       credentialname: "github repository"
       details: |
         '모바일 사진 전시 플랫폼' 프로젝트에서 백엔드 리드를 맡아 Kubernetes와 Kafka 기반 MSA를 성공적으로 설계 및 개발하여 15개 팀 중 2위로 우수상을 수상했습니다.
     - name: 산학연계프로젝트 최종발표회 우수상
       end: 2023.08
       organization: 동국대학교 SW교육원
-      credentialurl: "https://github.com/bin-pro/Wanderlust" # 여기에 관련 링크를 추가하세요.
+      credentialurl: "github.com/bin-pro/Wanderlust" # 여기에 관련 링크를 추가하세요.
       credentialname: "github repository"
       details: |
         '클라우드 기반 여행 비디오커머스 서비스'를 AWS 기반 MSA로 기획 및 개발하여 우수상을 수상했으며, 프로젝트의 높은 완성도를 인정받아 산학협력 기업으로부터 후속 개발 프로젝트를 수주했습니다.
     - name: 공과대학 기술보고서 작성 및 발표대회 최우수상
       end: 2022.12
       organization: 동국대학교 공과대학
-      credentialurl: "https://drive.google.com/file/d/1yh2zIDiBOzlaWF2qQwprxTU4Kt7v9H2g/view?usp=drive_link" # 여기에 관련 링크를 추가하세요.
+      credentialurl: "drive.google.com/file/d/1yh2zIDiBOzlaWF2qQwprxTU4Kt7v9H2g/view?usp=drive_link" # 여기에 관련 링크를 추가하세요.
       credentialname: "발표 자료"
       details: |
         'Github Copilot이 개발자 생태계에 끼칠 영향'을 주제로 기술 보고서를 작성하고 발표하여 최우수상을 수상했습니다.
